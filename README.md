@@ -16,7 +16,7 @@ However, I still see the need to learn more about data structure and algorithms,
 I will be using this repo to document my studies.
 
 
-The tutorial was taken with Javascript, so I planned to write with typescript and possibly add some unit testing to it.
+The tutorial was taken with Javascript, so I planned to write both the javascript and typescript version of the codes and possibly add some unit testing to it.
 
 If you think this is interesting, kindly star the repo
 
