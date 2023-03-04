@@ -13,3 +13,11 @@
     return fib  
 
 
+
+### Big-O
+
+    The time complexity of the algorithm is linear 'O(n)' because there is only one loop used and the input size increases linearly.
+
+    Although, the input size does not start from the initial value, it won't matter when calculating the big-o for time complexity
+
+
